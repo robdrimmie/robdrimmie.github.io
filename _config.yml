@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rmdrimmie.github.io
+title: Rob Drimmie
+tagline: Developer of software, talent and community
+description: I like to write about my life, but it's been a long time since I've done so regularly. I'm re-establishing the habit, irregularly and poorly.
+paginate: 5
