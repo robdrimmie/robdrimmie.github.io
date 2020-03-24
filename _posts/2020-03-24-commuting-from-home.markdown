@@ -9,7 +9,7 @@ So I'm overall pretty stoked to be working from home. The reasons why I'm workin
 
 I'm also a person who, in broad strokes, has difficulties with transitions. I like to be operating in a known context for any number of reasons but changing from one context to another is challenging to me.
 
-I've known for a while that a bit of physical activity in my community helps with that. In good weather I prefer to ride my bike to my office, and even in the winter I do things like get off at earlier stops to walk a bit. 
+I've known for a while that a bit of physical activity in my communiting helps with that. In good weather I prefer to ride my bike to my office, and even in the winter I do things like get off at earlier stops to walk a bit. 
 
 Commuting has been part of how I meet my baseline physical activity needs for several years, and it's been my primary tool for that purpose for at least two as I've taken a break from running for a while and wasn't making good use of my gym membership either.
 
@@ -27,4 +27,4 @@ I don't know, as I get to this point and write it out it actually sounds bad. It
  
 Drafting this post was today's transition and I wonder if this sort of thing is a better task than actual work. Spending some time thinking and writing is a work brain activity but in a non-work context. Maybe that is the secret. 
 
-I'm not a hard line kind of person, routines are crucial and good habits are the only reason I'm able to ever actually get anything done and ultimately the transition that I'm struggling with most is monumentally larger in scale than where I'm directing my attention in my day-to-day life but this is less a post about having all the solutions and more a return to the style of writing I enjoy the most, which is rambling, mostly pointless and tapers off instead of drawing conclusions.
+I'm not a hard line kind of person, but routines are crucial and good habits are the only reason I'm able to ever actually get anything done and ultimately the transition that I'm struggling with most is monumentally larger in scale than where I'm directing my attention in my day-to-day life but this is less a post about having all the solutions and more a return to the style of writing I enjoy the most, which is rambling, mostly pointless and tapers off instead of drawing conclusions.
