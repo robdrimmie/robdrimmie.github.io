@@ -23,4 +23,6 @@ So, the standard disclaimer* on everything I write here is that not only am I no
 
 Anyway, now it's time for me to mark this published and start actually playing. I hope I'm inclined to write more about this, or really anything else, sometime later.
 
+Edit, approximately 40 minutes later: I can't get the fucking thing to work. I even followed random forum steps to update the version of the emulator and nope, that ain't it. So I guess this isn't what's happening after all.
+
 * I've long thought "Standard Disclaimer" is a good name for a blog
