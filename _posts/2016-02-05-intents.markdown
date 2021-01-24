@@ -2,7 +2,7 @@
 published: true
 title: Intents
 layout: post
-tags: [intent]
+tags: intent
 ---
 
 I think about the future sometimes, though historically I have tended to intentionally not plan or set explicit goals.

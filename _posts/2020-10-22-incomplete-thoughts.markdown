@@ -2,7 +2,7 @@
 published: true
 title: Incomplete thoughts
 layout: post
-tags: [meta]
+tags: meta
 ---
 Things aren't always going to end properly or be edited or be posted on the date they are timestamped. The github repo will have more accurate information about creation dates and such but not too much more since things publish when I push them. 
 

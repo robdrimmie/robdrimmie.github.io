@@ -2,7 +2,7 @@
 published: true
 title: The First Session
 layout: post
-tags: [letsplay], [baldursgate2]
+tags: letsplay baldursgate2
 ---
 So after fiddling around for a few hours, I was able to get a working configuration for the game. As I declared in some form of exasperation, moderately light but not really hiding the true frustration, it really was a 90s video game experience.
 

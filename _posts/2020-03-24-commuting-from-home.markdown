@@ -2,7 +2,7 @@
 published: true
 title: Commuting From Home
 layout: post
-tags: [covid19]
+tags: covid19
 ---
 
 So I'm overall pretty stoked to be working from home. The reasons why I'm working from home are terrible, but I take my silver linings where I can.

@@ -2,7 +2,7 @@
 published: true
 title: Some Other Things
 layout: post
-tags: [letsplay] [hollowknight] [spelunky2]
+tags: letsplay hollowknight spelunky2
 ---
 I haven't gone back into _Baldur's Gate 2_ yet. I might, but it does seem likely that the specific urge to do so has faded for a fair bit of time.
 
