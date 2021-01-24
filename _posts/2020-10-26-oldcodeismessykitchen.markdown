@@ -1,8 +1,8 @@
 ---
-published: false
-title: Incomplete thoughts
+published: true
+title: Old code is a messy kitchen
 layout: post
-tags: meta
+tags: ramble, dev
 ---
 It's like a messy kitchen. An old code base, I mean. You can walk in and you can try to understand it before you do things and maybe ultimately that is best I don't know. But I like to figure it out by getting in there and puttering. There's usually a lot of very obvious garbage to toss and even if you just move it into a corner until you better understand what is and isn't garbage, working through that layer starts to expose the valuable bits underneath.
 
