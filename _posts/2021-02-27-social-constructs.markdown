@@ -10,9 +10,9 @@ This is for the best, mostly. One can't go hitting others, even if one is quite 
 
 So, there's a... polishing? phase of life. Finishing, I suppose, certain educators of people socialized as women may assert. 
 
-And that's a template. "Woman". It's a template that society creates. Sometimes explicitly, as in various religions or cook books where what a woman does is described in detail. 
+And that's a template. "Woman". It's a template that society creates. Sometimes explicitly, as in various religions or archaic cook books where what a woman does, as enforced by the template, is described in detail. 
 
-But I think those are often a cannonization of exisitng norms. 
+But I think those are often a cannonization of existing norms. 
 
 Humans are social creatures, as a group we do better when we're together. Looking after each other, specializing a bit here and there, people who tend to the near, the community and people who roam.
 
