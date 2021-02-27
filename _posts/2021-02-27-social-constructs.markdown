@@ -1,3 +1,9 @@
+---
+published: true
+title: Social constructs and disability.
+layout: post
+tags: autistic, socialModelOfDisability
+---
 Everybody learns how to interact, and everybody learns that there are parts of themselves that must be changed or hidden. 
 
 This is for the best, mostly. One can't go hitting others, even if one is quite angry. 
