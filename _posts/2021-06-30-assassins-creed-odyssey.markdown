@@ -1,6 +1,6 @@
 ---
 published: true
-title: Assassin's Creed: Odyssey
+title: Assassin\'s Creed: Odyssey
 layout: post
 tags: assassinscreed videogame
 ---
