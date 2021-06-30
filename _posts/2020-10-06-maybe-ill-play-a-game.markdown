@@ -2,7 +2,7 @@
 published: true
 title: Maybe I'll Play a Game
 layout: post
-tags: letsplay baldursgate2
+tags: letsplay baldursgate2 videogame
 ---
 
 It's not like I need a justification, but a justification makes it more fun! 

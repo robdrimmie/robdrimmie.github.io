@@ -2,7 +2,7 @@
 published: true
 title: The Morning After
 layout: post
-tags: letsplay baldursgate2
+tags: letsplay baldursgate2 videogame
 ---
 I realized that I really needed to read the manual, so I started and within a couple of pages was reminded of the auto-pause feature.
 
