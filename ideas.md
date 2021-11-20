@@ -1,0 +1,1 @@
+- it bugs me when folks complain about pluto being a dwarf planet. They see it as diminishing. I see it as pluto finding its people. We're all wrong because it's a rock not living.
