@@ -9,8 +9,7 @@ I've been waiting for a PS5 for a while, but I think it is going to be a long wh
 
 I started the day intending to play Control, but with the giant pile of software I'd started downloading, it ended up still in the queue. The other game I'd decided to look at early was Hades. It's received a ton of acclaim and I know a few folks who really had a great time with it. I'd planned on playing Control first because it would be over and done and I suspected - correctly - that Hades was going to be a long-time sort of thing. 
 
-Now that it is downloaded I'll be prioritizing Control but I do think that a run or two of Hades in the small gaps between work and dinner prep or, as I get 
-I've just purchsed an xbox series s and am about to play control. debated between control and hades, picked control because it will end while hades will likely be a long term sort of thing.
+Now that it is downloaded I'll be prioritizing Control but I do think that a run or two of Hades in the small gaps when I have a smallish chunk of time to play and don't want to get sunk into something. Roguelikes in general are good for that as there's only so many runs I am willing to do in one sitting. 
 
 Control hadn't downloaded yet though, so I played Hades. It is good.
 
