@@ -5,9 +5,6 @@ layout: post
 tags: navel, videogame, control, hades, spelunky2
 ---
 
-
-# 2021-11-28-games-have-different-energies
-
 I played quite a bit of Control yesterday, and really enjoyed it. It is such... It is my kind of game. And I was thinking about this just now in that I don't plya the kind of game I'm trying to make and that makes sense to me. 
 
 Different types of games, and I've been thinking about this as I switch between Spelunky 2 and Hades and Control and watch Jen playing Dragon Age and Jon playing Skate, different types of games have different types of energy.
