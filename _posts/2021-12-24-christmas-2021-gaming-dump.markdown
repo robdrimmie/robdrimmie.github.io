@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Christmas 2021 Gaming Dump
 layout: post
 tags: bardsTaleTrilogy, gaming, forgottenCity, hades, videogame, xbox
