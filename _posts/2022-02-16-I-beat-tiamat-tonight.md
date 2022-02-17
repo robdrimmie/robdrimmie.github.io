@@ -27,4 +27,4 @@ So I started cooking them too, and a couple explosions later and there I was, no
 
 I pilfered 257,725 (which is a paltry sum compared to what's possible, I guess perhaps some gold and speed runs are in my future) and the run time was 00:25:16.766. Perhaps I will sort out how to embed a picture here:
 
-<img src="https://robdrimmie.github.io/public/20220218%20-%20Spelunky%202%20-%20First%20Ending%20First%20Time.png" alt="A blurry photo of the end game scene displaying the run stats described in the previous two paragraphs" />  
+<img src="https://robdrimmie.github.io/public/20220218%20-%20Spelunky%202%20-%20First%20Ending%20First%20Time.png" alt="A blurry photo of the end game scene displaying the run stats described in the previous two paragraphs" style="width:100%;" />  
